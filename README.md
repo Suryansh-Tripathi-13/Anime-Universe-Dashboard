@@ -3,7 +3,8 @@
 
 1 - Project Title / Headline:
 
-🎌 Anime Universe: Ratings, Genres & Popularity Dashboard
+🎌 Anime Universe: Ratings, Genres & Popularity Dashboard:-
+
 An interactive and visually stunning Power BI dashboard built to explore anime data — focusing on genre popularity, ratings distribution, type analysis, popularity trends, and year-wise rating patterns from 1963 to 2024.
 
 
